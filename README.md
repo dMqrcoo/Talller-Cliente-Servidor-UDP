@@ -14,8 +14,8 @@ En este taller se simulará el envío y recepción de notificaciones en C# usand
 
 ## Ejecución
 1. Compilar ambos archivos por separado.
-2. Ejecutar el servidor (`Taller 5 Servidor.`).
-3. Ejecutar múltiples clientes (`ClienteUDP.exe`) desde distintas consolas.
+2. Ejecutar el servidor (`Taller 5 Servidor.sln`).
+3. Ejecutar múltiples clientes (`Taller 5 Cliente.sln`) desde distintas consolas.
 4. Uno de los clientes puede enviar el mensaje "FIN" para cerrar el servidor.
 
 Capturas del funcionamiento:
